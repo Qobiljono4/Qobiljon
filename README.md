@@ -1,2 +1,2 @@
 # Qobiljon
-Php
+Qobiljon
